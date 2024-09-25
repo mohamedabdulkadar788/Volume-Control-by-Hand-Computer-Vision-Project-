@@ -22,7 +22,7 @@ You can install the required dependencies using the following command:
 
 ## Usage
 
-### 1. Clone the repository:
+### 1. Clone or Download the repo:
 You can either clone the repository or download the zip file.
 
 ### 2. Command for git clone:
