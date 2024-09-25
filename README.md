@@ -26,6 +26,6 @@ You can install the required dependencies using the following command:
 You can either clone the repository or download the zip file.
 
 ### 2. Command for git clone:
-- **`git clone https://github.com/mohamedabdulkadar788/Volume-Control-by-Hand-Computer-Vision-Project-.git`
-- **`cd Volume-Control-by-Hand-Computer-Vision-Project--main`
-- **Then run the file.
+- `git clone https://github.com/mohamedabdulkadar788/Volume-Control-by-Hand-Computer-Vision-Project-.git`
+- `cd Volume-Control-by-Hand-Computer-Vision-Project--main`
+- Then run the file.
