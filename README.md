@@ -28,4 +28,4 @@ You can either clone the repository or download the zip file.
 ### 2. Command for git clone:
 - `git clone https://github.com/mohamedabdulkadar788/Volume-Control-by-Hand-Computer-Vision-Project-.git`
 - `cd Volume-Control-by-Hand-Computer-Vision-Project--main`
-- Then run the file.
+- Then run the file named `Volume_Control_Hand.py`.
