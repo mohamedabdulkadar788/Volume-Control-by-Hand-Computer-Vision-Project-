@@ -17,5 +17,6 @@ Make sure you have Python 3.x installed on your system.
 
 ### Dependencies
 You can install the required dependencies using the following command:
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
